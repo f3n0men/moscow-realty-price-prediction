@@ -24,8 +24,7 @@ real_estate_analysis.ipynb       — EDA и обучение модели
 data.csv                         — датасет
 prediction_function.py           — логика предсказания
 app.py                           — Flask-приложение
-templates/                       — HTML шаблоны
-model_artifacts/                 — сохранённая модель и данные по метро
+index.html                      — HTML шаблон
 ```
 
 ## Запуск
